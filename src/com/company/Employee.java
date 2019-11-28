@@ -31,12 +31,14 @@ public class Employee {
         this.lastName = lastName;
     }
 
+
+
     public void setMonthlySalary(double monthlySalary) {
         if(monthlySalary>0)
         this.monthlySalary = monthlySalary;
     }
 
-    public double YarlySalary(double monthlySalary){
+    public double YearlySalary(double monthlySalary){
         return monthlySalary*12;
     }
 }

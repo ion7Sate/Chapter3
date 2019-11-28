@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95dd6f6a-7175-4a86-a49d-17609e102438" name="Default Changelist" comment="" />
+    <list default="true" id="95dd6f6a-7175-4a86-a49d-17609e102438" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/EmployeeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/EmployeeeTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +21,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UBrYn3hlKOg0OYjBNho309kCvu" />
   <component name="RunDashboard">
@@ -28,9 +38,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EmployeeeTest">
+  <component name="RunManager" selected="Application.AccountTest">
     <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.AccountTest" />
+      <module name="ChapterIII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DataTest" />
       <module name="ChapterIII" />
       <extension name="coverage">
         <pattern>
@@ -83,12 +106,14 @@
       <item itemvalue="Application.AccountTest" />
       <item itemvalue="Application.InvoiceTest" />
       <item itemvalue="Application.EmployeeeTest" />
+      <item itemvalue="Application.DataTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccountTest" />
+        <item itemvalue="Application.DataTest" />
         <item itemvalue="Application.EmployeeeTest" />
         <item itemvalue="Application.InvoiceTest" />
-        <item itemvalue="Application.AccountTest" />
       </list>
     </recent_temporary>
   </component>
@@ -104,5 +129,16 @@
       <updated>1574840879057</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
